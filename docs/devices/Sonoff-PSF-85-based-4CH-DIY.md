@@ -1,15 +1,15 @@
-**Sonoff 4CH DIY**
+**Sonoff PSF-B85 based 4CH DIY**
 
 * Itead Shop: https://www.itead.cc/psf-b85.html
 * Itead Wiki: https://www.itead.cc/wiki/PSF-B85
 
-The Sonoff 4CH DIY is based on the ESP8285.
+The Sonoff PSF-85 based 4CH DIY is based on the ESP8285.
 
 <img alt="Sonoff 4CH DIY GPIO" src="https://raw.githubusercontent.com/Gtis69/arendst.github.io/master/media/Sonoff_DIY_4CH_GPIO.jpg" width="50%"/>
 
 ## Serial Connection
 
-### Sonoff 4CH DIY
+### Sonoff PSF-85 based 4CH DIY
 
 Please see the [Hardware Preparation](../Getting-Started#hardware-preparation) page for general instructions.
 
